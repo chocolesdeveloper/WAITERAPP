@@ -49,7 +49,7 @@ $ git clone https://github.com/chocolesdeveloper/WAITERAPP.git
 $ npm install
 
 - Inicie as aplicações:
-$ npm devt 
+$ npm dev
 
 ```
 
