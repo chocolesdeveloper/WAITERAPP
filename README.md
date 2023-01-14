@@ -1,4 +1,7 @@
-# ![logo](https://raw.githubusercontent.com/chocolesdeveloper/WAITERAPP/76fb6f3f356c25317cca70979a9af12d076e9729/web/src/assets/images/logo.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chocolesdeveloper/WAITERAPP/76fb6f3f356c25317cca70979a9af12d076e9729/web/src/assets/images/logo.svg"/> 
+</p>
+
 ## Sobre
 
 Waiter app é uma aplicação desenvolvida para ajudar no fluxo de pedidos de um restaurante. Por intermédio dele, os garçons e os responsáveis no preparado do pedido podem ter uma melhor analise, preparação e organização no ambiente de trabalho.
