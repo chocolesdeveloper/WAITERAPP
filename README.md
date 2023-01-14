@@ -18,10 +18,13 @@ Ou aqui mesmo:
 Algumas screenshot do projeto:
 
 **Mobile**:
+<div>
+  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/index.png?raw=true" />
+  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/empty.png?raw=true" />
+  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/table.png?raw=true" />
+  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/finish.png?raw=true" />
+</div>
 
-![imagem](https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/index.png?raw=true) 
-![image](https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/empty.png?raw=true)
-![image](https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/finish.png?raw=true)
 
 **Web**:
 
