@@ -25,7 +25,6 @@ Algumas screenshot do projeto:
   <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/web/public/screenshot/finish.png" />
 </div>
 
-
 **Web**:
 
 ![image](https://github.com/chocolesdeveloper/WAITERAPP/blob/master/web/public/screenshot/changestatus.png)
