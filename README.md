@@ -13,23 +13,23 @@ O projeto possui uma aplicação mobile e web que se complementam, onde o mobile
 
 Ou aqui mesmo:
 
-![image](https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/cover.png?raw=true)
+![image](https://github.com/chocolesdeveloper/WAITERAPP/blob/master/web/public/screenshot/cover.png?raw=true)
 
 Algumas screenshot do projeto:
 
 **Mobile**:
 <div>
-  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/index.png?raw=true" />
-  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/empty.png?raw=true" />
-  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/table.png?raw=true" />
-  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/finish.png?raw=true" />
+  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/web/public/screenshot/index.png?raw=true" />
+  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/web/public/screenshot/table.png" />
+  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/web/public/screenshot/cart.png" />
+  <img height=500px src="https://github.com/chocolesdeveloper/WAITERAPP/blob/master/web/public/screenshot/finish.png" />
 </div>
 
 
 **Web**:
 
-![image](https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/changestatus.png?raw=true)
-![image](https://github.com/chocolesdeveloper/WAITERAPP/blob/master/screenshot/modal.png?raw=true)
+![image](https://github.com/chocolesdeveloper/WAITERAPP/blob/master/web/public/screenshot/changestatus.png)
+![image](https://github.com/chocolesdeveloper/WAITERAPP/blob/master/web/public/screenshot/modalfinish.png)
 ## Tecnologias
 
 - **[ReactJS](https://reactjs.org)**
