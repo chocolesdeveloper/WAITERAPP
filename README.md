@@ -9,7 +9,7 @@ Waiter app é uma aplicação desenvolvida para ajudar no fluxo de pedidos de um
 O projeto possui uma aplicação mobile e web que se complementam, onde o mobile serve para os garçons veem o menu de produtos e criarem os pedidos dos clientes; enquanto q a versão web conta com um dashboard dividido em 3 estágios de produção de acordo com a preparação do pedido, sendo eles na fila de espera, em produção e finalizado.
 ## Telas
 
-- Todo o projeto pode ser visto todo pelo **[Figma](http://exemplo.com/)**
+- Todo o projeto pode ser visto todo pelo **[Figma](https://www.figma.com/file/Ivct0qKlCFhWIIPrC5yHBF/WAITERAPP?t=B7ceLQGVSjTCouRb-0)**
 
 Ou aqui mesmo:
 
