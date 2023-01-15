@@ -49,7 +49,7 @@ export function OrdersBoard({
     })
 
     toast.success(
-      `O pedido da mesa ${selectedOrder?.table} foi teve o status alterado com sucesso!`
+      `O pedido da mesa ${selectedOrder?.table} teve o status alterado com sucesso!`
     )
     onChangeOrderStatus(selectedOrder!._id, newStatus)
     setIsLoading(false)
